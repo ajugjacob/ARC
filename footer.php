@@ -51,11 +51,7 @@
 
   <a href="#" class="back-to-top"><i class="fa fa-angle-up"></i></a>
 
-  <!-- JavaScript Libraries -->
-  <script src="lib/jquery/jquery.min.js"></script>
-  <script src="lib/jquery/jquery-migrate.min.js"></script>
-  <script src="lib/bootstrap/js/bootstrap.bundle.min.js"></script>
-  <script src="lib/wow/wow.min.js"></script>
+    <?php wp_footer(); ?>
 
 </body>
 
