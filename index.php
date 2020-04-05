@@ -3,6 +3,27 @@
 
   get_header();
 ?>
+<style>
+@media only screen 
+and (max-width : 1100px) {
+  #img1{
+          height:300px !important;
+          width:400px;
+       }
+  #img2{
+          height:300px !important;
+          width:400px;
+       }
+   #img3{
+          height:300px !important;
+          width:400px;
+       }
+   #img4{
+          height:300px !important;
+          width:400px;
+       }
+    }
+ </style>
 
   <!--==========================
     Intro Section
@@ -45,27 +66,7 @@
        <!--==========================
       Gallery Section
     ============================-->
-<style>
-@media only screen 
-and (max-width : 1100px) {
-  #img1{
-          height:300px !important;
-          width:400px;
-       }
-  #img2{
-          height:300px !important;
-          width:400px;
-       }
-   #img3{
-          height:300px !important;
-          width:400px;
-       }
-   #img4{
-          height:300px !important;
-          width:400px;
-       }
 
- </style>
  <section id="gallery" class="wow fadeInUp">
 
       <div class="container">
@@ -521,7 +522,7 @@ and (max-width : 1100px) {
           height:300px !important;
           width:400px;
        }
-
+      }
  </style>
  <section id="gallery" class="wow fadeInUp">
 
@@ -624,7 +625,7 @@ and (max-width : 1100px) {
      <!--==========================
       Alumini Meet Section
     ============================-->
-<!-- 
+
     <section id="schedule" class="section-with-bg">
       <div class="container wow fadeInUp">
         <div class="section-header">

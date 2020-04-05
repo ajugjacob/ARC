@@ -57,8 +57,6 @@
   <script src="lib/bootstrap/js/bootstrap.bundle.min.js"></script>
   <script src="lib/wow/wow.min.js"></script>
 
-  <!-- Template Main Javascript File -->
-  <script src="js/main.js"></script>
 </body>
 
 </html>
