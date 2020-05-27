@@ -37,7 +37,9 @@
           <li><a href="#activities">Activities</a></li>
           <!-- <li><a href="#schedule">Alumini Meet</a></li>  -->         
           <li><a href="#contributions">Contributions</a></li>
+          <li><a href="#arc-form">Form</a></li>
           <li><a href="#speakers">Team</a></li>
+
           
         </ul>
       </nav><!-- #nav-menu-container -->

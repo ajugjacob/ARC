@@ -63,7 +63,6 @@ get_header();
   </section>
 
 
-
   <!--==========================
       Gallery Section
     ============================-->
@@ -309,6 +308,19 @@ get_header();
       </div>
     </div>
 
+  </section>
+
+
+  <!--==========================
+     Form Section
+   ============================-->
+  <section id="arc-form">
+    <div class="container">
+    <div class="section-header">
+      <h2>FORM</h2>
+      <p>Form by ARC</p>
+    </div>
+    <?php include 'form.php'; ?>
   </section>
 
 
