@@ -324,6 +324,20 @@ get_header();
   </section>
 
 
+    <!--==========================
+     Invoice Section
+   ============================-->
+<!--<section id="arc-form">
+      <div class="container">
+      <div class="section-header">
+        <h2>INVOICE</h2>
+        <p>Invoice by ARC</p>
+      </div>
+      <?php //include 'invoice.php'; ?>
+    </section>
+-->
+
+
   <!--==========================
       Team Section
     ============================-->

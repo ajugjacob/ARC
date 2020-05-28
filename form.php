@@ -33,7 +33,7 @@
 						.container .form-group #submit-button{
 							background-color: #f82249;
 							border: solid 1px #f82249;
-						}							
+						}						
 	</style>
 </head>
 <body>
@@ -56,7 +56,7 @@
 	</div>
 
 	<div class="form-group">
-		<label>Email</label><br>
+		<label>Mail ID</label><br>
 		<input type="email" name="email" class="col-xl-3 col-lg-4 col-md-6" style="padding: 12px;" placeholder="Email" required>
 	</div>
 
@@ -107,12 +107,10 @@
 	</div>
 	
 	<div class="form-group">
-		<input type="submit" class="btn btn-primary" name="submit" id="submit-button" value="submit">
+		<input type="submit" class="btn btn-primary" name="submit" id="submit-button" value="Submit">
 	</div>
 
 </form>
 </div>
-
-
 </body>
 </html>
