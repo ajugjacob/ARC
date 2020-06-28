@@ -1,12 +1,12 @@
 <?php /* Template Name: Form Template */ ?>
-
-<!-- 
+<?php
+/*
 	1) Create two pages -- Form and Form Render
 	2) Set template name of form page Form Template and form render page to Form Render
 	2) replace form action of this page with permalink of form render page
 
--->
-
+*/
+?>
 <!DOCTYPE html>
 <html>
 <head>
@@ -40,7 +40,7 @@
 
 <!-- put action = form render url!! -->
 <div class="container">
-<form style="margin: 50px auto; width: 100%;" method="POST" action="http://localhost:2000/?page_id=7">
+<form style="margin: 50px auto; width: 100%;" method="POST" action="/invoice">
 	
 	<div class="form-group">
 		<label>Name</label><br>

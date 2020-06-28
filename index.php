@@ -333,7 +333,7 @@ get_header();
         <h2>INVOICE</h2>
         <p>Invoice by ARC</p>
       </div>
-      <?php //include 'invoice.php'; ?>
+      <?php //include 'admin_invoice.php'; ?>
     </section>
 -->
 
