@@ -44,4 +44,11 @@
         </ul>
       </nav><!-- #nav-menu-container -->
     </div>
+
+    <section class="notification mx-auto">
+      <div class="content mx-auto">
+        
+        <p><a href="https://goo.gl/forms/b4TzxJjEgTj0TLoC3" target="_blank">Data Collection for Accreditation - Click Here<a></a>
+      </div>
+    </section>
   </header><!-- #header -->

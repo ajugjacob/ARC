@@ -456,6 +456,38 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 /*--------------------------------------------------------------
+# notiification Section
+--------------------------------------------------------------*/
+.notification {
+  height: 25px;
+  margin: 55px; 
+  background-color: #f82249;
+  width: center;
+}
+
+.notification .content {
+  display: inline-block;
+  display: flex;
+  align-items: center;
+  justify-content: center
+}
+
+.notification p {
+  text-align: center;
+}
+
+.notification a {
+  color: black;
+  text-decoration: none;
+}
+
+.notification a:hover {
+  color: black;
+  text-decoration: none;
+}
+
+
+/*--------------------------------------------------------------
 # Intro Section
 --------------------------------------------------------------*/
 
