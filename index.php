@@ -49,13 +49,13 @@ get_header();
         <div class="col-lg-12">
           <h2>About</h2>
           <p>
-            College of Engineering Chengannur is a premier government Engineering institute situated in Chengannur of Alappuzha district, Kerala. The institution was established in 1993 under the patronage of the Institute of Human Resources amd Development(IHRD). It is approved by the All India Council of Technical Education (AICTE) and is affiliated to APJ Abdul Kalam Technological University (KTU). The college offers four undergraduate programs in Computer Science Engineering, Electrical & Electronics Engineering, Electronics & Communication Engineering and Electronics & Intrumentation Engineering. The Masters degree programming offered by the college are M.Tech (Electronics) with specialization in VLSI & Embedded Systems and M.Tech (Computer Science) with specialization in Image Processing.
+            College of Engineering Chengannur is a premier government Engineering institute situated in Chengannur of Alappuzha district, Kerala. The institution was established in 1993 under the patronage of the Institute of Human Resources and Development(IHRD). It is approved by the All India Council of Technical Education (AICTE) and is affiliated to APJ Abdul Kalam Technological University (KTU). The college offers four undergraduate programs in Computer Science Engineering, Electrical & Electronics Engineering, Electronics & Communication Engineering and Electronics & Instrumentation Engineering. The Master's degree programming offered by the college are M.Tech (Electronics) with specialization in VLSI & Embedded Systems and M.Tech (Computer Science) with specialization in Image Processing.
           </p>
           <p>
-            Alumini Relation Cell of College of Engineering Chengannur was established on 15th November, 2019. It mainly focuses on development of Alumini support to do the continuing development of the institution's academics, research, placements, expansion and renewal of it faculties and providing scholarship and financial support to students.
+            Alumni Relation Cell of the College of Engineering Chengannur was established on 15th November 2019. It mainly focuses on the development of Alumni support to do the continuing development of the institution's academics, research, placements, expansion and renewal of its faculties and providing scholarship and financial support to students.
           </p>
           <p>
-            Alumini Relation Cell works towards ensuring the mutual benefit of the alumini as well as the students. ARC helps the alumini in staying connected to their campus. ARC has been instrumental in organizing the Alumini Meets, Mentorship programme, regular guest lectures by distinguished alumini in the campus.
+            Alumni Relation Cell works towards ensuring the mutual benefit of the alumni as well as the students. ARC helps the alumni in staying connected to their campus. ARC has been instrumental in organizing the Alumni Meets, Mentorship programme, regular guest lectures by distinguished alumni in the campus.
           </p>
         </div>
       </div>
@@ -129,7 +129,7 @@ get_header();
                   <div class="icon">
                   </div>
                   <h3>ARC Inaugration</h3>
-                  <p>The Alumini Relation Cell inaugration will take place with giving out the scolaships provided by the alumini members to the students.</p>
+                  <p>The Alumni Relation Cell inauguration will take place with giving out the scholarships provided by the alumni members to the students.</p>
                 </div>
               </div>
               <div class="col-xl-4 col-lg-4 col-md-6">
@@ -137,7 +137,7 @@ get_header();
                   <div class="icon">
                   </div>
                   <h3>Scolarship Distribution</h3>
-                  <p>Scholarships are given to 10 students of our college annually by our alumini members.</p>
+                  <p>Scholarships are given to 10 students of our college annually by our alumni members.</p>
                 </div>
               </div>
               <div class="col-xl-4 col-lg-4 col-md-6">
@@ -145,7 +145,7 @@ get_header();
                   <div class="icon">
                   </div>
                   <h3>Data Collection of Alumini Members</h3>
-                  <p>Continuous collection of data regarding Alumini Members organized according to their batch.</p>
+                  <p>Continuous collection of data regarding Alumni Members organized according to their batch.</p>
                 </div>
               </div>
             </div>
@@ -287,7 +287,7 @@ get_header();
                 <a data-toggle="collapse" href="#faq2" class="collapsed">Sahapadikkoru veed 2 lakhs rupees<i class="fa fa-minus-circle"></i></a>
                 <div id="faq2" class="collapse" data-parent="#faq-list">
                   <p>
-                    Our alumini members have contributed about 2 lakh rupees for the program 'Sahapadikkoru Veed' organized by our college for helping a student to build his house as he lost it in the 2018 floods.
+                    Our alumni members have contributed about 2 lakh rupees for the program 'Sahapadikkoru Veed' organized by our college for helping a student to build his house as he lost it in the 2018 floods.
                   </p>
                 </div>
               </li>
@@ -296,7 +296,7 @@ get_header();
                 <a data-toggle="collapse" href="#faq3" class="collapsed">Scholarship for 10 students annually <i class="fa fa-minus-circle"></i></a>
                 <div id="faq3" class="collapse" data-parent="#faq-list">
                   <p>
-                    Scholarships are given to 10 students of our college annually by our alumini members.
+                    Scholarships are given to 10 students of our college annually by our alumni members.
                   </p>
                 </div>
               </li>

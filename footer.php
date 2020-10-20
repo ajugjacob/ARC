@@ -11,7 +11,7 @@
 
           <div class="col-lg-3 col-md-6 footer-info">
             <h3>Alumini Relation Cell</h3>
-            <p> Alumini Relation Cell works towards ensuring the mutual benefit of the alumini as well as the students. ARC helps the alumini in staying connected to their campus. ARC has been instrumental in organizing the Alumini Meets, Mentorship programme, regular guest lectures by distinguished alumini in the campus.</p>
+            <p> Alumni Relation Cell works towards ensuring the mutual benefit of the alumni as well as the students. ARC helps the alumni in staying connected to their campus. ARC has been instrumental in organizing the Alumni Meets, Mentorship programme, regular guest lectures by distinguished alumni in the campus.</p>
           </div>
 
           <div class="col-lg-6 col-md-6 footer-links">
