@@ -10,7 +10,7 @@
         <div class="row">
 
           <div class="col-lg-3 col-md-6 footer-info">
-            <h3>Alumini Relation Cell</h3>
+            <h3>Alumni Relation Cell</h3>
             <p> Alumni Relation Cell works towards ensuring the mutual benefit of the alumni as well as the students. ARC helps the alumni in staying connected to their campus. ARC has been instrumental in organizing the Alumni Meets, Mentorship programme, regular guest lectures by distinguished alumni in the campus.</p>
           </div>
 
